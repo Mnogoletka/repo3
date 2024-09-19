@@ -1,7 +1,0 @@
-This is my code
-
-<<<<<<< HEAD
-This is branch develop
-=======
-This is branch dev1
->>>>>>> dev1
